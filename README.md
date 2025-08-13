@@ -1,16 +1,17 @@
-## Hi there 👋
+Typing SVG
 
-<!--
-**DaviCastroo/DaviCastroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mim
+🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+🎓 Estudando Engenharia de Software na Universidade Católica de Brasília.
+🌱 Aprendendo mais sobre JAVA.
+Minhas Skills
+👨‍💻 Linguagens e Tecnologias
+C C# Python Java JavaScript HTML5 CSS3 MySQL
+⚙️ Ferramentas, IDEs e DevOps
+Git GitHub Visual Studio Code Eclipse IntelliJ IDEA Unity Trello
+Minhas Estatísticas
+stats graph languages graph
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Conecte-se comigo
+instagram logo linkedin logo gmail logo discord logo
+github contribution grid snake animation
