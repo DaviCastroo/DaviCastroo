@@ -6,9 +6,9 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 Curioso sobre as mais diversas técnologias e linguagens. 
 - 🎓 Estudando Engenharia de Software na Universidade Católica de Brasília.
-- 🌱 Aprendendo mais sobre JAVA.
+- 🌱 Buscando mais conhecimento na linguagem JAVA.
 
 ## Minhas Skills
 
