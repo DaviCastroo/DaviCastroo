@@ -1,74 +1,44 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=2000&color=18d621&center=false&vCenter=false&width=1000&height=70&lines=Eai!+Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
-
-</p>
-
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
 ## Sobre mim
 
-- 🤔 Curioso sobre as mais diversas técnologias e linguagens. 
+- 🤔 Aprendendo novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Engenharia de Software na Universidade Católica de Brasília.
-- 🌱 Buscando mais conhecimento na linguagem JAVA.
+- 💼 Trabalhando como estagiário em back-end na Evolução Auditoria.
+- 🌱 Aprendendo mais sobre Java, Python, APIs e automações.
 
 ## Minhas Skills
 
-### 👨‍💻 Linguagens e Tecnologias
+**Aplicações e dados**
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
-</div>
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-postgresql-333333?style=flat&logo=postgresql)
 
-### ⚙️ Ferramentas, IDEs e DevOps
+**Utilidades**
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="Visual Studio Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50" height="50" alt="Eclipse"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50" alt="IntelliJ IDEA"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="50" height="50" alt="DBeaver"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50" alt="Postman"/>
-</div>
+![DBeaver](https://img.shields.io/badge/-DBeaver-333333?style=flat&logo=)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-<h2 align="left">Minhas Estatísticas</h2>
+**DevOps**
 
-###
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davicastroo&theme=tokyonight" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davicastroo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
-</p>
+**Ferramentas de desenvolvimento**
 
-###
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
+[![Intellij](https://img.shields.io/badge/Intellij-000?logo=intellij&logoColor=fff)](#)
 
-<h2 align="left">Conecte-se comigo</h2>
+<a href="https://github.com/iuricode" title="Perfil do Davi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davicastroo&theme=dracula&show_icons=true" />
+</a>
 
-###
+## Onde me encontrar
 
-<div align="left">
-  <a href="https://www.instagram.com/davi_.ramoz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/davicastroo/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="davic.b.c.r@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://discordapp.com/users/271049005943881729" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davicastroo/DaviCastroo/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davicastroo/DaviCastroo/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/davicastroo/DaviCastroo/output/github-contribution-grid-snake.svg">
-</picture>
-
-###
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/davicastroo/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:davic.b.c.r@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/DaviCastroo)
