@@ -12,7 +12,7 @@
 **Aplicações e dados**
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=ffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-333333?style=flat&logo=postgresql)
 
@@ -39,6 +39,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davicastroo/)](https://www.linkedin.com/in/davicastroo/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davic.b.c.r@gmail.com)](mailto:davic.b.c.r@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Davicastroo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davicastroo/)](https://www.linkedin.com/in/davicastroo/)
+[![Gmail Badge](https://img.shields.io/badge/-davic.b.c.r@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davic.b.c.r@gmail.com)](mailto:davic.b.c.r@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/davicastroo?label=follow&style=social)](https://github.com/DaviCastroo)
